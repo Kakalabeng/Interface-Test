@@ -1,0 +1,227 @@
+[INFO ] 2018-03-13 15:16:40,579 com.apitest.core.ApiTestListener - email send to 626231936@qq.com success
+[INFO ] 2018-03-13 15:18:47,726 com.apitest.core.ApiTestListener - email send to 626231936@qq.com success
+[INFO ] 2018-03-13 15:19:43,023 com.apitest.core.ApiTestListener - email send to 2534188759@qq.com success
+[INFO ] 2018-03-13 15:20:26,001 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 15:22:44,662 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 15:27:34,050 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 15:39:17,251 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 16:29:20,388 com.apitest.core.ApiTestListener - the Text: 'message' is Present!
+[INFO ] 2018-03-13 16:29:20,490 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 16:29:20,583 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 16:29:20,668 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-13 16:33:58,767 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 16:33:58,886 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 16:33:59,000 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-13 16:33:59,124 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-13 16:33:59,231 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-13 16:34:18,067 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-13 16:35:46,527 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 16:35:46,647 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 16:35:46,735 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-13 16:35:46,829 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-13 16:35:46,938 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-13 17:02:51,912 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-13 17:02:52,019 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-13 17:02:52,022 com.apitest.core.ApiTestListener - {"message":"success","result":[{"id":3,"searchParamList":[],"stockId":74966313,"totalNumber":200000,"colour":1,"skuName":"夜空黑","goods":{"id":1,"searchParamList":[],"goodsName":"青果","sellChannel":1},"goodsId":1,"price":199,"picUrl":"https://nos.163.com/yixinpublic/pr_fqizpyyj3qoi7czau3yiig==_1439967375_16285"},{"id":2,"searchParamList":[],"stockId":74966312,"totalNumber":200000,"colour":0,"skuName":"青果绿","goods":{"id":1,"searchParamList":[],"goodsName":"青果","sellChannel":1},"goodsId":1,"price":199,"picUrl":"https://nos.163.com/yixinpublic/pr_lvlslq5untnm-\n\nkymzfhaea==_1439967379_16286"}],"code":200}
+[INFO ] 2018-03-13 17:02:52,115 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-13 17:02:52,210 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[FATAL] 2018-03-13 17:02:52,312 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""; expected Value is :success
+[INFO ] 2018-03-13 17:02:52,312 com.apitest.core.ApiTestListener - {"message":"Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: \"\"1\"\"","code":400}
+[INFO ] 2018-03-13 17:03:30,141 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 17:03:30,245 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 17:03:30,337 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-13 17:03:30,439 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-13 17:03:30,529 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-13 17:11:02,907 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 17:15:14,077 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 17:15:30,357 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 17:17:40,084 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 17:18:03,223 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-13 17:20:52,478 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-13 17:20:53,439 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 08:32:49,181 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-14 08:32:49,185 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 08:32:49,300 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 08:32:49,401 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :Failed
+[INFO ] 2018-03-14 08:32:49,401 com.apitest.core.ApiTestListener - {"message":"用户名或者密码错误","code":400}
+[FATAL] 2018-03-14 08:32:49,521 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :Failed
+[INFO ] 2018-03-14 08:32:49,521 com.apitest.core.ApiTestListener - {"message":"用户名或者密码错误","code":400}
+[FATAL] 2018-03-14 08:32:49,654 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :Failed
+[INFO ] 2018-03-14 08:32:49,655 com.apitest.core.ApiTestListener - {"message":"用户名或者密码错误","code":400}
+[INFO ] 2018-03-14 08:32:51,410 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 08:33:53,159 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-14 08:33:53,164 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 08:33:53,294 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 08:33:53,397 com.apitest.core.ApiTestListener - expectedValue :用户名或者密码错误  match actualValue:用户名或者密码错误
+[INFO ] 2018-03-14 08:33:53,494 com.apitest.core.ApiTestListener - expectedValue :用户名或者密码错误  match actualValue:用户名或者密码错误
+[INFO ] 2018-03-14 08:33:53,581 com.apitest.core.ApiTestListener - expectedValue :用户名或者密码错误  match actualValue:用户名或者密码错误
+[INFO ] 2018-03-14 08:33:54,260 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 09:37:03,968 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[INFO ] 2018-03-14 09:37:03,972 com.apitest.core.ApiTestListener - {"message":"请重新登录","code":403}
+[FATAL] 2018-03-14 09:46:18,762 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[INFO ] 2018-03-14 09:46:18,766 com.apitest.core.ApiTestListener - {"message":"请重新登录","code":403}
+[INFO ] 2018-03-14 09:58:01,874 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 10:06:58,190 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:06:58,371 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :Failed
+[INFO ] 2018-03-14 10:06:58,373 com.apitest.core.ApiTestListener - {"message":"最多只能添加6个地址","code":400}
+[FATAL] 2018-03-14 10:09:56,727 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :success
+[INFO ] 2018-03-14 10:09:56,731 com.apitest.core.ApiTestListener - {"message":"最多只能添加6个地址","code":400}
+[FATAL] 2018-03-14 10:09:56,933 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :Failed
+[INFO ] 2018-03-14 10:09:56,933 com.apitest.core.ApiTestListener - {"message":"最多只能添加6个地址","code":400}
+[INFO ] 2018-03-14 10:10:46,430 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:10:46,664 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-14 10:10:46,666 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 10:12:03,193 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:12:03,401 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-14 10:12:03,402 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 10:12:52,292 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:12:52,504 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :Failed
+[INFO ] 2018-03-14 10:12:52,505 com.apitest.core.ApiTestListener - {"message":"最多只能添加6个地址","code":400}
+[INFO ] 2018-03-14 10:13:30,594 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:13:30,807 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-14 10:13:30,808 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 10:13:49,561 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:13:49,758 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :Failed
+[INFO ] 2018-03-14 10:13:49,759 com.apitest.core.ApiTestListener - {"message":"最多只能添加6个地址","code":400}
+[INFO ] 2018-03-14 10:14:20,066 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:14:20,261 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :Failed
+[INFO ] 2018-03-14 10:14:20,262 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 10:45:57,564 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 10:45:57,758 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :Failed
+[INFO ] 2018-03-14 10:45:57,759 com.apitest.core.ApiTestListener - {"message":"may not be null","code":400}
+[INFO ] 2018-03-14 10:46:52,365 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 10:46:52,570 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 14:09:44,114 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 14:14:14,634 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[INFO ] 2018-03-14 14:14:14,639 com.apitest.core.ApiTestListener - {"message":"请重新登录","code":403}
+[FATAL] 2018-03-14 14:16:01,555 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[INFO ] 2018-03-14 14:16:01,559 com.apitest.core.ApiTestListener - {"message":"may not be null","code":400}
+[FATAL] 2018-03-14 14:16:36,062 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :Failed
+[INFO ] 2018-03-14 14:16:36,065 com.apitest.core.ApiTestListener - {"message":"may not be null","code":400}
+[FATAL] 2018-03-14 14:17:02,826 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :Failed
+[INFO ] 2018-03-14 14:17:02,830 com.apitest.core.ApiTestListener - {"code":400,"message":"请求失败"}
+[FATAL] 2018-03-14 14:17:41,274 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :Failed
+[INFO ] 2018-03-14 14:17:41,277 com.apitest.core.ApiTestListener - {"code":400,"message":"请求失败"}
+[INFO ] 2018-03-14 14:18:01,341 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 14:33:39,863 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 14:44:17,369 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[INFO ] 2018-03-14 14:44:17,373 com.apitest.core.ApiTestListener - {"message":"may not be null","code":400}
+[FATAL] 2018-03-14 14:45:10,152 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[INFO ] 2018-03-14 14:45:10,155 com.apitest.core.ApiTestListener - {"message":"may not be null","code":400}
+[FATAL] 2018-03-14 14:48:50,967 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[INFO ] 2018-03-14 14:48:50,972 com.apitest.core.ApiTestListener - {"message":"may not be null","code":400}
+[INFO ] 2018-03-14 14:51:04,344 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 14:53:18,870 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[INFO ] 2018-03-14 14:53:18,878 com.apitest.core.ApiTestListener - {"message":"请重新登录","code":403}
+[FATAL] 2018-03-14 14:53:36,358 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[INFO ] 2018-03-14 14:53:36,366 com.apitest.core.ApiTestListener - {"message":"请重新登录","code":403}
+[FATAL] 2018-03-14 14:53:57,659 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[INFO ] 2018-03-14 14:53:57,665 com.apitest.core.ApiTestListener - {"message":"请重新登录","code":403}
+[INFO ] 2018-03-14 15:01:55,174 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:04:00,220 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:15,216 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:15,325 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:15,425 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-14 15:16:15,529 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-14 15:16:15,625 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-14 15:16:15,886 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:16,108 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:16,318 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:16:16,419 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:16,669 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:16:18,449 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-14 15:16:18,600 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-14 15:18:01,016 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[INFO ] 2018-03-14 15:18:53,758 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 15:21:14,186 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[INFO ] 2018-03-14 15:21:14,190 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 15:21:14,298 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:14,402 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:14,497 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:14,615 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 15:21:49,845 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[INFO ] 2018-03-14 15:21:49,848 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 15:21:49,954 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:50,054 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:50,150 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:50,267 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:50,383 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:50,488 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:50,581 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-14 15:21:50,689 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-14 15:21:50,797 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-14 15:21:51,067 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:51,315 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:51,538 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:21:51,740 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:51,999 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:21:52,623 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 15:31:23,536 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[INFO ] 2018-03-14 15:31:23,540 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 15:31:23,658 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:31:23,761 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:31:23,860 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:31:23,978 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:24,119 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:24,227 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:24,331 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-14 15:31:24,434 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-14 15:31:24,534 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-14 15:31:24,797 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:25,044 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:25,269 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:31:25,457 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:25,724 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:31:26,735 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 15:32:09,662 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[INFO ] 2018-03-14 15:32:09,668 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 15:32:09,782 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:32:09,880 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:32:09,963 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:32:10,067 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:32:10,183 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:32:10,293 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:32:10,391 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-14 15:32:10,502 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-14 15:32:10,615 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-14 15:32:10,864 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[FATAL] 2018-03-14 15:32:11,060 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :success
+[INFO ] 2018-03-14 15:32:11,060 com.apitest.core.ApiTestListener - {"message":"最多只能添加6个地址","code":400}
+[INFO ] 2018-03-14 15:32:11,273 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:32:11,480 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:32:11,696 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:32:12,282 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 15:33:24,042 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[INFO ] 2018-03-14 15:33:24,046 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 15:33:24,144 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:33:24,246 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:33:24,344 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:33:24,457 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:24,597 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:24,716 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:24,823 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-14 15:33:24,941 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-14 15:33:25,043 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-14 15:33:25,300 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:25,508 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:25,744 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:33:25,943 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:26,203 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:33:26,763 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success
+[FATAL] 2018-03-14 15:37:31,808 com.apitest.core.ApiTestListener - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[INFO ] 2018-03-14 15:37:31,812 com.apitest.core.ApiTestListener - {"message":"success","code":200}
+[INFO ] 2018-03-14 15:37:31,926 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:37:32,051 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:37:32,157 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:37:32,274 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:32,414 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:32,538 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:32,629 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""12345678900786""
+[INFO ] 2018-03-14 15:37:32,735 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""9999""
+[INFO ] 2018-03-14 15:37:32,837 com.apitest.core.ApiTestListener - expectedValue :Failed  match actualValue:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Long' for property 'goodsId'; nested exception is java.lang.NumberFormatException: For input string: ""1""
+[INFO ] 2018-03-14 15:37:33,100 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:33,348 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:33,555 com.apitest.core.ApiTestListener - expectedValue :400  match actualValue:400
+[INFO ] 2018-03-14 15:37:33,739 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:33,961 com.apitest.core.ApiTestListener - expectedValue :success  match actualValue:success
+[INFO ] 2018-03-14 15:37:34,795 com.apitest.core.ApiTestListener - email send to 15732167516@163.com success

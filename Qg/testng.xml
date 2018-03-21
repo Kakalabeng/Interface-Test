@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  <listeners>
+		<listener class-name="com.apitest.core.ApiTestListener"></listener>
+	</listeners>
+	<test name="t1" preserve-order="true">
+   	 <classes>
+   	   <class name="com.edu.login.loginTest"/>
+   	   <class name="com.edu.skuList.skuListTest"/>
+   	   <class name="com.edu.address.CheckAddress"/>
+   	   <class name="com.edu.address.AddAddress"/>
+   	   <class name="com.edu.address.CheckAddress"/>
+   	   <class name="com.edu.getTransportFee.GetTransportFee"/>
+       <class name="com.edu.ordersSubmit.OrdersSubmitTest"/>
+    </classes>
+    </test>
+</suite>
